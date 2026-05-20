@@ -1,0 +1,22 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #2eafb3;
+    margin: 0;
+    padding: 0;
+    color: rgb(255, 255, 255);
+}
+
+#titulo-clinica {
+    text-align: center;
+    margin-top: 20px;
+}
+
+#bemvindo {
+    text-align: center;
+    margin-top: 10px;
+}
+
+.bemvindo {
+    text-align: center;
+    margin-top: 10px;
+}
